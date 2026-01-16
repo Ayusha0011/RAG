@@ -1,0 +1,5 @@
+chroma_db/ 
+*.pdf 
+tempCodeRunnerFile.py 
+__pycache__/ 
+*.pyc 
